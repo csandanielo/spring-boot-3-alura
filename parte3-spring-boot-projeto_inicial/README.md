@@ -41,6 +41,13 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ---
 
+##Links úteis
+https://http.dog/
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
+
+https://jwt.io/
+
 ## 📝 Licença
 
 Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
